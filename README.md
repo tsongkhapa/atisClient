@@ -1,3 +1,21 @@
+ATIS Client
+
+Websocket client. Based on chatbot example.
+
+https://blog.bitlabstudio.com/a-simple-chat-app-with-react-node-and-websocket-35d3c9835807 
+
+Very simple. 
+
+Does not support a list of messages.
+
+Websocket protocol assumes update only. Does not handle create, and delete.
+
+TODO.
+Expand to handle a list of messages.
+Expand web socket protocol to handle create, update, delete
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
